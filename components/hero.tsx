@@ -27,7 +27,7 @@ export default function Hero() {
           <div className="relative flex-1">
             <div className="relative aspect-[4/3] overflow-hidden rounded-lg">
               <Image
-                src="C:\Users\Dell\Downloads\finolity-landing\public\main.jpg"
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-6r8QB0MwG0XNtBYEuyJv9Thm7sE9DY.png"
                 alt="IT Team"
                 fill
                 className="object-cover"
